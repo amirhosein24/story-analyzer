@@ -42,7 +42,7 @@ Every week thousands of writers submit stories to Reedsy contest.
 
 ```bash
 # Clone
-git clone https://github.com/yourusername/story-analyzer.git
+git clone https://github.com/amirhosein24/story-analyzer.git
 cd story-analyzer
 
 # Setup
