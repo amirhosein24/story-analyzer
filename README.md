@@ -1,6 +1,6 @@
 #  Story Analyzer
 
-Analyze children's stories and discover their subject, atmosphere, target audience, and moral lessons.
+Analyze stories and discover their subject, atmosphere, target audience, and moral lessons.
 
 ##  Quick Start
 
